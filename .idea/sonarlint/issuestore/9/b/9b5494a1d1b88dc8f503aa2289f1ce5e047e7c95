@@ -1,0 +1,17 @@
+
+j	java:S116"URename this field "$signInTab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°ò
+m	java:S116	"QRename this field "$email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğ½Ï8óİµ¢æ/
+o	java:S116
+"TRename this field "$password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÜF8´’µ¢æ/
+z	java:S116"YRename this field "$singIn_Button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¿ö‘ûÿÿÿÿ8é½¶¢æ/
+y	java:S116"]Rename this field "$actualFailMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒä§8¯˜·¢æ/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¡á‚úÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈÎX
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‚ı¤
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‹Ãøüúÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(È†‚ùúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ãæêÊ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‚ı¤
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÿòØüÿÿÿÿ
+e	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÁÅ,
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªîóşÿÿÿÿ

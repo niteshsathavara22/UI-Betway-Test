@@ -1,0 +1,11 @@
+
+q	java:S116
+"URename this field "$searchBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÜ¿Õ8×›¹¢æ/
+y	java:S116"]Rename this field "$sportArticlesName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ˆÐ‰8ÚÇ¸¢æ/
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯†´Ï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÿÕã
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(í¿ˆ€ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(å‡ÎÒÿÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(òá·ä
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙªÌ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜çêØ
